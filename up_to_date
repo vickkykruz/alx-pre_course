@@ -1,1 +1,1 @@
-git clone,  git add, git status, git checkout -b <branch name>, git branch, git checkout <existing branch name>, git push
+git pull
